@@ -1,11 +1,11 @@
 # Solutions for graph problems at the last contest
 
-[x] problem A
+[X] problem A
 
-[x] problem B
+[X] problem B
 
-[x] problem C
+[X] problem C
 
-[x] problem D
+[X] problem D
 
-[x] problem E
+[X] problem E
